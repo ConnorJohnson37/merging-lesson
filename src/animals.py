@@ -29,8 +29,6 @@ class Cat(Animal):
 class Cow(Animal):
     noise = "MOO"
 
-    def fetch(self):
-        pass
 
 # Add another animal below.  Come up with something unique
 # Feel free to add functions or whatever you want.  If you don't feel

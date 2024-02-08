@@ -20,6 +20,9 @@ class Crow(Bird):
 class Dog(Animal):
     noise = "BARK"
 
+class Cat(Animal):
+    noise = "MEOW"
+
     def fetch(self):
         pass
 
